@@ -7,7 +7,7 @@
 
 **🟠 Ask me about Front-end track**
 
-**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/habipayenda/), <a href="mailto:habiburahmanpayenda@gmail.com" target="_blanck"> Gmail </a>**
+**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/habibpayenda/), <a href="mailto:habiburahmanpayenda@gmail.com" target="_blanck"> Gmail </a>**
 
 <!-- **🟠 Check [my resume]()** -->
 
