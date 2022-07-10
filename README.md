@@ -40,6 +40,9 @@
   <br/>
   <div>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
     <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code> -->
