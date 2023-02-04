@@ -11,9 +11,9 @@
 
 <!-- **🟠 Check [my resume]()** -->
 
-**🟠 I’m currently learning at** ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
+**🟠 I’m currently learning at**<a href="https://www.microverse.org/" target="_blanck"> ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) </a> 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills, <a href="https://www.microverse.org/" target="_blanck"> Microverse </a>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
 <div>
   <div>
